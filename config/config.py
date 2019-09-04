@@ -1,1 +1,1 @@
-env = 'Dev'
+env = 'prod'
